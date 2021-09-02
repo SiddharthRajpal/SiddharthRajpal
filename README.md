@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SiddharthRajpal
 - 👀 I’m interested in Python, PHP, HTML, Arduino and Unity
-- Doesnt like orange juice 
-- Loves milk 🥛 
+
 
 
 <!---
